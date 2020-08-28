@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Aditya Anand aka Aditechdev
+ -I am an android and IOS developer
+ - Currently working on android developer project 
 
 <!--
 **aditechdev/aditechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
