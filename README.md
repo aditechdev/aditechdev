@@ -6,7 +6,9 @@
 
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&center=true&width=1000&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=3500&center=true&width=1000&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=3500&center=true&width=1000&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=3500&center=true&width=1000&height=84&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving;Don't+Forget+To+Follow❤️)](https://git.io/typing-svg)
 <!--  - Currently working 10:00 am - 07:00 for office, after and before for myself -->
  - 🔭 I’m currently working on ZillSKill Project
 - 🌱 I’m currently learning Flutter, nodeJs, js
