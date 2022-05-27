@@ -41,17 +41,15 @@ FOr the badge
 
   ## Let's be social
   <!--  Twitter -->
-  <p align="left"> <a href="https://twitter.com/aditechdev" target="_blank"><img src="https://img.shields.io/twitter/follow/aditechdev?logo=twitter&style=for-the-badge" alt="aditechdev" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/aditechdev" target="_blank"><img src="https://img.shields.io/twitter/follow/aditechdev?logo=twitter&style=for-the-badge" alt="aditechdev" /></a> <a href="https://www.instagram.com/aditechdev/" target="_blank"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=crimson&label=Instagram%20%40aditechdev&logo=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Faditechdev"> </a> <a href="https://www.linkedin.com/in/aditechdev/" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Linkedin%20%40aditechdev&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Faditechdev"></a></p>
          
          
  
 
-<!--  Profile View -->
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditechdev&label=Profile%20views&color=0e75b6&style=flat" alt="aditechdev" /> Before you become an OVERNIGHT success, you have to become an EVERYDAY hustler.</p>
+<!-- Github  Profile View -->
+## Github 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditechdev&label=Profile%20views&color=0e75b6&style=flat" alt="aditechdev" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/aditechdev?logo=github&style=flat-square"/> </p>
 
-         
-![GitHub followers](https://img.shields.io/github/followers/aditechdev?logo=github&style=flat-square)
-         ![GitHub followers](https://img.shields.io/github/followers/aditechdev?logo=github&style=for-the-badge)
          
 
 
