@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Aditya Anand aka Aditechdev
 
- - ## I am mobile application developer
+MOBILE APPLICATION DEVELOPER
  - Currently working on android developer project 
 
 <!--
