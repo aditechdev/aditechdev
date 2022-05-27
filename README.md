@@ -4,19 +4,14 @@
          width="40" />, I'm Aditya Anand aka Aditechdev</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=3500&center=true&width=1000&height=84&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving;Don't+Forget+To+Follow❤️)](https://git.io/typing-svg)
-<!--  - Currently working 10:00 am - 07:00 for office, after and before for myself -->
- - 🔭 I’m currently working on ZillSKill Project
+
+- 🔭 I’m currently working on ZillSKill Project
 - 🌱 I’m currently learning Flutter, nodeJs, js
 - 👯 I’m looking to collaborate on Opensource 
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: Twitter, Instagram, Linkedin
-<!-- - 😄 Pronouns: ... -->
+- 📫 How to reach me: 
+  - Linkedin | Twitter | Instagram | Github => @aditechdev
+  - Mail: aditechdevofficial@gmail.com
 - ⚡ Fun fact: Work 10:00 am - 07:00 for office, after and before for myself
-
-<!-- <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aditechdev&show_icons=true&theme=radical" />  -->
-<!-- <img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />   -->
-
      
 ## Skills 
 
@@ -35,14 +30,6 @@ FOr the badge
 -->
 
 
-<!--
-**aditechdev/aditechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-
 ## Github Stats
 <!--  Github Status  -->
 
@@ -54,9 +41,17 @@ Here are some ideas to get you started:
 
   ## Let's be social
   <!--  Twitter -->
-  <p align="left"> <a href="https://twitter.com/aditechdev" target="blank"><img src="https://img.shields.io/twitter/follow/aditechdev?logo=twitter&style=for-the-badge" alt="aditechdev" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/aditechdev" target="_blank"><img src="https://img.shields.io/twitter/follow/aditechdev?logo=twitter&style=for-the-badge" alt="aditechdev" /></a> </p>
+         
+         
+ 
 
 <!--  Profile View -->
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditechdev&label=Profile%20views&color=0e75b6&style=flat" alt="aditechdev" /> Make me Famous </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditechdev&label=Profile%20views&color=0e75b6&style=flat" alt="aditechdev" /> Before you become an OVERNIGHT success, you have to become an EVERYDAY hustler.</p>
+
+         
+![GitHub followers](https://img.shields.io/github/followers/aditechdev?logo=github&style=flat-square)
+         ![GitHub followers](https://img.shields.io/github/followers/aditechdev?logo=github&style=for-the-badge)
+         
 
 
