@@ -4,7 +4,7 @@
 <!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=425&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving)
 <!--  - Currently working 10:00 am - 07:00 for office, after and before for myself -->
  - 🔭 I’m currently working on ZillSKill Project
 - 🌱 I’m currently learning Flutter, nodeJs, js
