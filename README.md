@@ -1,27 +1,34 @@
                                            Hi there 👋 I am Aditya Anand aka Aditechdev
-                                                    MOBILE APPLICATION DEVELOPER
+                                           
+                              
+<!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving)](https://git.io/typing-svg) -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=425&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving)](https://git.io/typing-svg) -->
 
-
- - Currently working 10:00 am - 07:00 for office, after and before for myself
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving)](https://git.io/typing-svg)
+<!--  - Currently working 10:00 am - 07:00 for office, after and before for myself -->
+ - 🔭 I’m currently working on ZillSKill Project
+- 🌱 I’m currently learning Flutter, nodeJs, js
+- 👯 I’m looking to collaborate on Opensource 
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: Twitter, Instagram, Linkedin
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: Work 10:00 am - 07:00 for office, after and before for myself
 
 <!-- <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aditechdev&show_icons=true&theme=radical" />  -->
 <!-- <img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />   -->
 
      
+## Skills 
 
-                                                           Skills 
-
-- Database <br/>
+<!-- - Database <br/>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 
-<!-- - Design<br/> -->
-<!--  Figma -->
 
-<!-- - FrameWork<br/> -->
-<!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
-- Language<br/> ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
+- FrameWork: Express | Flutter | XML 
+- Language: Flutter | Dart | Java
+- Database: Firebase | Squalite
 
 <!-- 
 FOr the badge 
@@ -34,17 +41,14 @@ FOr the badge
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
+## Github Stats
+
 ![Aditya Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditechdev&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditechdev&theme=dark)](https://git.io/streak-stats)
 
 
 
