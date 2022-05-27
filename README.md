@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Aditya Anand aka Aditechdev
 
-- [H1] I am mobile application developer
+ - ## I am mobile application developer
  - Currently working on android developer project 
 
 <!--
