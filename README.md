@@ -44,3 +44,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditechdev&show_icons=true&locale=en" alt="aditechdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditechdev&" alt="aditechdev" /></p>
+
+
+![Flutter](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![Flutter](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+
+<!-- Badge Experiment -->
+![Badge](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+
+![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)
+![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=instagram&logoColor=47c5fb)
