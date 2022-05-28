@@ -1,57 +1,46 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height=40"
-         width="40" />, I'm Aditya Anand aka Aditechdev</h1>
+<h1 align="center">Hi 👋, I'm Aditya Anand</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=3500&center=true&width=1000&height=84&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving;Don't+Forget+To+Follow+❤️)](https://git.io/typing-svg)
-## 💫 About Me :
-- 🔭 I’m currently working on ZillSKill Project
-- 🌱 I’m currently learning Flutter, nodeJs, js
-- 👯 I’m looking to collaborate on Opensource 
-- 📫 How to reach me: 
-  - Linkedin | Twitter | Instagram => @aditechdev
-  - Mail: aditechdevofficial@gmail.com
-- ⚡ Fun fact: Work 10:00 am - 07:00 for office, after and before for myself
-     
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditechdev&label=Profile%20views&color=0e75b6&style=flat" alt="aditechdev" /> </p>
 
-<!-- ## Github Stats -->
-<!--  Github Status  -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditechdev" alt="aditechdev" /></a> </p>
 
-<!-- ![Aditya Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditechdev&show_icons=true&theme=radical) -->
+<p align="left"> <a href="https://twitter.com/aditechdev" target="blank"><img src="https://img.shields.io/twitter/follow/aditechdev?logo=twitter&style=for-the-badge" alt="aditechdev" /></a> </p>
 
-<!--  STREAK  -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditechdev&theme=dark)](https://git.io/streak-stats) -->
-<!--  </br> -->
+- 🔭 I’m currently working on **ZillSkill**
 
-<!--   ## Let's be social
-  <!--  Twitter -->
-<!--   <p align="left"> <a href="https://twitter.com/aditechdev" target="_blank"><img src="https://img.shields.io/twitter/follow/aditechdev?logo=twitter&style=for-the-badge" alt="aditechdev" /></a> <a href="https://www.instagram.com/aditechdev/" target="_blank"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=crimson&label=Instagram%20%40aditechdev&logo=Instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Faditechdev"> </a> <a href="https://www.linkedin.com/in/aditechdev/" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Linkedin%20%40aditechdev&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Faditechdev"></a></p> --> 
-         
-         
- 
-<!-- 
-<!-- Github  Profile View -->
-<!-- ## Github 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditechdev&label=Profile%20views&color=0e75b6&style=flat" alt="aditechdev" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/aditechdev?logo=github&style=flat-square"/> </p>
--->
+- 🌱 I’m currently learning **Data Structure, Full Stack**
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditechdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditechdev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aditechdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aditechdev) 
+- 👯 I’m looking to collaborate on **Open Source**
 
-## 💻 Tech Stack
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) </br>![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) </br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)</br>![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=aditechdev&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditechdev&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditechdev&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+- 💬 Ask me about **Flutter**
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+- 📫 How to reach me **aditechdevofficial@gmail.com**
 
----
-![](https://visitcount.itsvg.in/api?id=aditechdev&icon=0&color=0)
-   ### 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aditechdev)  
+- ⚡ Fun fact **hfjsdkf**
 
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aditechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditechdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditechdev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/aditechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aditechdev" height="30" width="40" /></a>
+<a href="https://instagram.com/aditechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditechdev" height="30" width="40" /></a>
+<a href="https://medium.com/aditechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aditechdev" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aditechdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditechdev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aditechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditechdev" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/aditechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditechdev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aditechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditechdev" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@aditechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aditechdev" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/aditechdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aditechdev" /></a><a href="https://ko-fi.com/aditechdev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aditechdev" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditechdev&show_icons=true&locale=en&layout=compact" alt="aditechdev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditechdev&show_icons=true&locale=en" alt="aditechdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditechdev&" alt="aditechdev" /></p>
