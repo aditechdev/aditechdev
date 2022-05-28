@@ -53,4 +53,4 @@
 ![Badge](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
 
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)
-![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=instagram&logoColor=47c5fb)
+![Flutter](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram)
