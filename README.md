@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=3500&center=true&width=1000&height=84&lines=Hello!+World;Mobile+Application+Developer;Emerging+Full+Stack+Developer;Always+Learning+Always+Evolving;Don't+Forget+To+Follow+❤️)](https://git.io/typing-svg)
 ## 💫 About Me :
-- 🔭 I’m currently working on ZillSKill Project
+- 🔭 I’m currently working on multiple Flutter Project
 - 🌱 I’m currently learning Flutter, nodeJs, js
 - 👯 I’m looking to collaborate on Opensource 
 - 📫 How to reach me: 
