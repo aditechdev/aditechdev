@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Opensource 
 - 📫 How to reach me: 
   - Linkedin | Twitter | Instagram => @aditechdev
-  - Mail: aditechdevofficial@gmail.com
+  - Mail: contactaditechdev@gmail.com
 - ⚡ Fun fact: Work 10:00 am - 07:00 for office, after and before for myself
      
 
@@ -48,7 +48,7 @@
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-
+<!-- COmming SOon --->
 <!-- 
          ---
          
