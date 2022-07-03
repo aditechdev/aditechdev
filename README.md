@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning Flutter, nodeJs, js
 - 👯 I’m looking to collaborate on Opensource 
 - 📫 How to reach me: 
-  - Linkedin | Twitter | Instagram => @aditechdev
   - Mail: contactaditechdev@gmail.com
 - ⚡ Fun fact: Work 10:00 am - 07:00 for office, after and before for myself
      
